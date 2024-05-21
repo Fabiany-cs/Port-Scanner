@@ -8,14 +8,12 @@
 <body>
     <h1>Nmap Port Scanner</h1>
     <p>This Python script uses the Nmap library to scan a target IP address for open ports and services.</p>
-
     <h2>Features</h2>
     <ul>
         <li>Scans a specified target IP.</li>
         <li>Provides details on open ports and their states.</li>
         <li>Simple and lightweight implementation.</li>
     </ul>
-
     <h2>Installation</h2>
     <ol>
         <li>Install Nmap:
@@ -25,7 +23,6 @@
             <pre><code>pip install python-nmap</code></pre>
         </li>
     </ol>
-
     <h2>Usage</h2>
     <ol>
         <li>Clone the repository:
@@ -35,7 +32,6 @@
             <pre><code>python port_scanner.py</code></pre>
         </li>
     </ol>
-
     <p>Enjoy scanning!</p>
 </body>
 </html>
