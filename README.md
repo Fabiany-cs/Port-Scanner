@@ -25,7 +25,7 @@
     <h2>Usage</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/nmap-portscanner.git<br>cd nmap-portscanner</code></pre>
+            <pre><code>git clone https://github.com/Fabiany-cs/portscanner.git<br> cd portscanner</code></pre>
         </li>
         <li>Run the script:
             <pre><code>python port_scanner.py</code></pre>
